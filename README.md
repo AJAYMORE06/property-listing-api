@@ -1,4 +1,4 @@
-[![CourseStack Frontend](https://img.shields.io/badge/Property_Listing-Backend-orange)](https://github.com/parithoshpoojary/property-listing-api/releases)
+[![CourseStack Frontend](https://img.shields.io/badge/Property_Listing-Backend-orange)](https://github.com/ajaymore06/property-listing-api/releases)
 
 # Property Listing API
 
@@ -12,7 +12,7 @@ testing the webservice api.
 
 ## Getting started
 
-To get started with property-listing-api you need to obtain a binary of the property-listing-api build. It is available at the [releases](https://github.com/parithoshpoojary/property-listing-api/releases) section. You can use the jar file to directly run the application.
+To get started with property-listing-api you need to obtain a binary of the property-listing-api build. It is available at the [releases](https://github.com/ajaymore06/property-listing-api/releases) section. You can use the jar file to directly run the application.
 
 To run, you need to need to have Java 8 (and above) installed. It is recommended to customize the `application.properties` according to your needs and use it in the following way:
 
@@ -47,7 +47,7 @@ cd property-listing-api/
 
 ### Configuration
 
-To choose a custom port number, etc. head over to the [application.properties](https://github.com/parithoshpoojary/property-listing-api/tree/master/src/main/resources) file in the src/main/resources/ directory and change the configuration to your preferences.
+To choose a custom port number, etc. head over to the [application.properties](https://github.com/ajaymore06/property-listing-api/tree/master/src/main/resources) file in the src/main/resources/ directory and change the configuration to your preferences.
 
 Once you are done configuring, do either of the following methods.
 
